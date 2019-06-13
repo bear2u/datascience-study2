@@ -1,5 +1,8 @@
 # 데이터 사이언스 공부
 
+스터디 기간 : 2개월
+스터디  : https://www.codeit.kr/courses/7
+
 1,2주차
 https://colab.research.google.com/drive/1Z1ANtFzdkXnub9Aw81LThOB6UZAQ_frr
 
