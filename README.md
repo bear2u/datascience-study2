@@ -3,10 +3,10 @@
 스터디 기간 : 2개월
 스터디  : https://www.codeit.kr/courses/7
 
-1,2주차
+링크 #1
 https://colab.research.google.com/drive/1Z1ANtFzdkXnub9Aw81LThOB6UZAQ_frr
 
-3,4주차
+링크 #2
 https://colab.research.google.com/drive/1cGCiEBxi6EXBUMJIKTWPiBJEd1KF7bBC
 
 # 데이터 모으는 방법
